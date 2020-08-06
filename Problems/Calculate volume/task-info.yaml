@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    // write your code here
+
+    // do not change code below
+    fun main() {
+        val (length, width, height) = readLine()!!.split(" ").map(String::toInt)
+
+        print("${getVolume(length)} ") // Volume of the stick
+        print("${getVolume(length, width)} ") // Volume of the plate
+        print("${getVolume(length, width, height)} ") // Volume of the box
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4708
+status: Solved
+record: -1

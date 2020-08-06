@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="621cc058-7ee6-4e1a-a05c-9340ec5c3402" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1aNgXuFdeEsms0Q514pW5cxxq8c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="621cc058-7ee6-4e1a-a05c-9340ec5c3402" name="Default Changelist" comment="" />
+      <created>1586581509100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586581509100</updated>
+      <workItem from="1586581515971" duration="364000" />
+      <workItem from="1586581923160" duration="1640000" />
+      <workItem from="1586622340215" duration="2997000" />
+      <workItem from="1586747081582" duration="750000" />
+      <workItem from="1586839924762" duration="18000" />
+      <workItem from="1587995392043" duration="1485000" />
+      <workItem from="1587997091078" duration="2468000" />
+      <workItem from="1588007691434" duration="5757000" />
+      <workItem from="1588260058658" duration="987000" />
+      <workItem from="1588620740283" duration="1568000" />
+      <workItem from="1588794682937" duration="1017000" />
+      <workItem from="1588943315935" duration="3096000" />
+      <workItem from="1590577248648" duration="6580000" />
+      <workItem from="1590596950585" duration="8000" />
+      <workItem from="1590648078895" duration="624000" />
+      <workItem from="1590904541686" duration="533000" />
+      <workItem from="1591084797281" duration="504000" />
+      <workItem from="1591086726454" duration="4161000" />
+      <workItem from="1591792067465" duration="5000" />
+      <workItem from="1592116235569" duration="233000" />
+      <workItem from="1592379295378" duration="1635000" />
+      <workItem from="1592551305861" duration="1287000" />
+      <workItem from="1592572640023" duration="688000" />
+      <workItem from="1592827181085" duration="2208000" />
+      <workItem from="1592909351089" duration="826000" />
+      <workItem from="1593671870888" duration="530000" />
+      <workItem from="1594105989477" duration="1251000" />
+      <workItem from="1594301990584" duration="587000" />
+      <workItem from="1595279505343" duration="149000" />
+      <workItem from="1596716181491" duration="76000" />
+      <workItem from="1596716891843" duration="3852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1596716190873">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="456" y="327" key="com.intellij.ide.util.TipDialog/0.27.1600.873@0.27.1600.873" timestamp="1596716190873" />
+  </component>
+</project>
